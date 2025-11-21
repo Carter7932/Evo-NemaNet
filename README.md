@@ -1,4 +1,4 @@
-# Evo-NemaNet
+# Evo-NemaNet: A Highly Accurate Framework and Standardized Paradigm for Automatic Nematode Recognition
 ![Project overview](assets/Evo-NemaNet%20Working%20Flow.jpg)
 ## 1. Installation
 - Use Python 3.9 to match dependency versions.
