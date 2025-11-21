@@ -50,3 +50,5 @@ Tan, M., \& Le, Q. (2019, May). Efficientnet: Rethinking model scaling for convo
 Tan, M., \& Le, Q. (2021, July). Efficientnetv2: Smaller models and faster training. In International conference on machine learning (pp. 10096-10106). PMLR.
 
 He, K., Zhang, X., Ren, S., \& Sun, J. (2016). Deep residual learning for image recognition. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 770-778).
+
+Zhang, L., Deng, X., \& Lu, Y. (2023, December). Segment anything model (sam) for medical image segmentation: A preliminary review. In 2023 IEEE international conference on bioinformatics and biomedicine (BIBM) (pp. 4187-4194). IEEE.
