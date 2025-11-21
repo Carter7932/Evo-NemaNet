@@ -1,5 +1,5 @@
 # Evo-NemaNet
-
+![Project overview](assets/Evo-NemaNet Working Flow.jpg)
 ## 1. Installation
 - Use Python 3.9 to match dependency versions.
 - Install packages from the project root:
