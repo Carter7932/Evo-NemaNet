@@ -6,6 +6,7 @@
   ```bash
   pip install -r requirements.txt
   ```
+- Download weights: SAM ViT-H (`sam_vit_h_4b8939.pth`) from the official Segment Anything release (https://github.com/facebookresearch/segment-anything#model-checkpoints) and MambaVision tiny/small (`mambavision_tiny_1k.pth.tar`, `mambavision_small_1k.pth.tar`) from the official MambaVision releases (https://github.com/state-spaces/mamba-vision).
 - The Checkpoint of Evo-NemaNet and Data of Evo-Nema Dataset can be achieved in the following link
 - Best_Model: [link] (code: ____)
 - I-Nema dataset: [link] (code: ____)
