@@ -11,7 +11,7 @@
 - Best_Model: https://pan.baidu.com/s/1So943wmvGaTSvWYVm5bBsA?pwd=nsj9 
 - I-Nema dataset: https://pan.baidu.com/s/1ybGdm-ODvhVRcW27W1FIKQ?pwd=4uj5
 - Evo-Nema dataset: https://pan.baidu.com/s/1X-tXxeUv9YrCihH2PT7Cuw?pwd=6ady
-- Test Data: https://pan.baidu.com/s/1JjN87mTVv4vPNI4cNJBh2A?pwd=bsst
+- Test Raw Data: https://pan.baidu.com/s/1JjN87mTVv4vPNI4cNJBh2A?pwd=bsst
 
 ## 2. Script Guide
 - `SAM_NemaSeg.py`  
